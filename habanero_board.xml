@@ -28,7 +28,7 @@
 	<part-instance><id>UCENTAUR3</id><part-id>OPNPWR_CENTAUR</part-id><position>2</position><ecmd>yes</ecmd><ec-level>DD1</ec-level></part-instance>
 	<part-instance><id>UCENTAUR4</id><part-id>OPNPWR_CENTAUR</part-id><position>3</position><ecmd>yes</ecmd><ec-level>DD1</ec-level></part-instance>
 	<part-instance><id>U0</id><part-id>PEX8748_HABANERO</part-id><position>0</position></part-instance>
-	<part-instance><id>U1</id><part-id>VPD</part-id><position>0</position><content-type>PLANAR_VPD</content-type><seeprom-byte-address-offset></seeprom-byte-address-offset><seeprom-write-page-boundary></seeprom-write-page-boundary><vpd-size>256</vpd-size><seeprom-memory-size></seeprom-memory-size></part-instance>
+	<part-instance><id>U1</id><part-id>VPD</part-id><position>0</position><content-type>PLANAR_VPD</content-type><seeprom-byte-address-offset></seeprom-byte-address-offset><seeprom-write-page-boundary></seeprom-write-page-boundary><vpd-size>24c256</vpd-size><seeprom-memory-size></seeprom-memory-size></part-instance>
 </part-instances>
 <connector-instances>
 	<connector-instance><id>JSCM</id><connector-id>TURISMO_SOCKET</connector-id><position>0</position></connector-instance>
